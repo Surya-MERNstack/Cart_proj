@@ -1,0 +1,58 @@
+
+
+.cart-name {
+   width: 250px;
+   text-align: center;
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   padding: 10px;
+   margin: 10px;
+   display: inline-block;
+   background-color: white;
+   border-radius: 10%;
+}
+
+.cart-name  button {
+    border: none;
+    width: 6rem;
+    background-color: white;
+    color: red;
+    font-size: larger;
+    transition: 1s;
+    height: 2rem;
+    border-radius: 5%;
+    border: 1px solid red;
+}
+
+.cart-name  button:hover {
+    border: none;
+    background-color: rgb(255, 3, 3);
+    color: rgb(255, 255, 255);
+    transition: 1s;
+}
+
+.para-cart {
+    text-align: center;
+    font-size: larger;
+    margin-left: 20rem;
+    width: 100%;
+    color: rgb(255, 9, 9);
+}
+
+.h2{
+    text-align: center;
+    font-size: larger;
+    margin-left: 20rem;
+    width: 100%;
+    color: rgb(87, 248, 84);
+}
+
+.total {
+    font-size: 20px;
+    font-weight: bolder;
+    color: red;
+    text-align: center;
+}
+
+.heading {
+    color: green;
+}
