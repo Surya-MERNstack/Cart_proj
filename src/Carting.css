@@ -31,9 +31,7 @@
 }
 
 .para-cart {
-    text-align: center;
     font-size: larger;
-    margin-left: 20rem;
     width: 100%;
     color: rgb(255, 9, 9);
 }
@@ -41,7 +39,6 @@
 .h2{
     text-align: center;
     font-size: larger;
-    margin-left: 20rem;
     width: 100%;
     color: rgb(87, 248, 84);
 }
